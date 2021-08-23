@@ -1,7 +1,7 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: contact
+widget_id: contact
 headless: true
+weight: 10
 ---
