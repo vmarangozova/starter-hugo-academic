@@ -1,12 +1,10 @@
 ---
 role: Ph.D. in Computer Science, Associate Professor at UGA
-avatar_filename: 2021-07-18_727_67-a-.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Systems
 social: []
 organizations:
   - name: University Grenoble-Alpes
