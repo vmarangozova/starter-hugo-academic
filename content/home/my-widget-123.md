@@ -1,6 +1,6 @@
 ---
 widget: Contact
-widget_id: my-widget-123
+widget_id: contact
 headless: true
 weight: 10
 active: true
