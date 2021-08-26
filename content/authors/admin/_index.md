@@ -1,6 +1,6 @@
 ---
 role: Ph.D. in Computer Science, Associate Professor at UGA
-avatar_filename: ""
+avatar_filename: vania-2021.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
