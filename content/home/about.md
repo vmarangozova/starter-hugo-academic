@@ -9,5 +9,5 @@ title: About me
 subtitle: ""
 design:
   background:
-    image: ""
+    image: vania-2021.jpg
 ---
