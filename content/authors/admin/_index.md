@@ -1,8 +1,7 @@
 ---
 role: Ph.D. in Computer Science, Associate Professor at UGA
-avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg
+bio: ""
 interests:
   - Distributed Systems
 social: []
@@ -15,12 +14,13 @@ education:
       institution: UGA
 superuser: true
 highlight_name: false
-title: Vania Marangozova-Martin
+title: Vania Marangozova
 email: ""
 ---
+I am Associate professor in Computer Science at the [Grenoble University](http://www.grenoble-universites.fr/ "http\://www.grenoble-universites.fr/") since September 2004. I am  member of the [ERODS](http://erods.imag.fr) team of the [LIG](http://www.liglab.fr/ "http\://www.liglab.fr/") laboratory.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I received my Ph.D in Computer Science from the University of Grenoble in 2003 and my HDR (Habilitation for Directing Research) in 2015.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in providing mechanisms and strategies for system observation and system configuration to ensure optimal system dimensioning. My research finds its applications in large-scale systems including multi-core embedded systems, HPC and cloud computing.   
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
