@@ -2,7 +2,7 @@
 widget: contact
 widget_id: contact
 headless: true
-weight: 100
+weight: 60
 active: true
 design:
   columns: "2"
