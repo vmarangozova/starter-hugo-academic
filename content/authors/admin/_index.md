@@ -1,8 +1,7 @@
 ---
 role: Ph.D. in Computer Science, Associate Professor at UGA
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Distributed Systems
 social: []
@@ -15,7 +14,7 @@ education:
       institution: UGA
 superuser: true
 highlight_name: false
-title: Vania Marangozova-Martin
+title: Vania Marangozova
 email: ""
 ---
 I am Associate professor in Computer Science at the [Grenoble University](http://www.grenoble-universites.fr/ "http\://www.grenoble-universites.fr/") since September 2004. I am  member of the [ERODS](http://erods.imag.fr) team of the [LIG](http://www.liglab.fr/ "http\://www.liglab.fr/") laboratory.
