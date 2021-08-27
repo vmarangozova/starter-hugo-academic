@@ -1,5 +1,9 @@
 ---
 title: Publications
+
+font_size: m
+share: false
+
 # summary: Publications and Software
 # tags:
 # - Deep Learning
