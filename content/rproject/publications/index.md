@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: List of my publications
+summary: List of my publications
 
 font_size: s
 share: false
