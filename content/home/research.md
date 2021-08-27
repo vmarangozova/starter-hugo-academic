@@ -58,27 +58,31 @@ design:
 -C. Pousa Ribeiro, M. Bastos Castro, J.-F. Mehaut, V. Marangozova-Martin, H. Cota de Freitas, and C. A. P. S. Martins. Investigating the Impact of CPU and Memory Affinity on Multi-core Platforms : A Case Study of Numerical Scientific Multithreaded Applications. IADIS International Conference on Applied Computing (AC), Rio de Janeiro, Brazil, 2011.
 - C. Prada, V. Marangozova-Martin, J.-F. Mehaut, and M. Santana. A Generic Component- Based Approach to MPSoC Observation. 9th IEEE/IFIP International Conference on Embedded and UbiquitousComputing (EUC 2011), 2011.
 
-## Short communications [COM] and posters [AFF] in conferences and workshops
+### Short communications [COM] and posters [AFF] in conferences and workshops
 - G. Pagano and V. Marangozova-Martin. The FrameSoC Software Architecture for Multiple- View Trace Data Analysis. ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS 2014). Rome, Italie. Juin 2014
 - G. Pagano, D. Dosimont, G. Huard, V. Marangozova-Martin, and J.-M. Vincent. Trace Management and Analysis for Embedded Systems. IEEE International Symposium on Embedded Multicore SoCs (MCSoC-13), Tokyo, Japan, Dec. 2013.
 - V. Marangozova-Martin and G. Pagano. SoC-TRACE : Handling the Challenge of Em- bedded Software Design and Optimization. ACM/IFIP/Usenix International Middleware Conference, Montreal, Canada, Dec. 2012. 
 
-## Habilitation to Direct Research
-[19] Vania Marangozova-Martin. Towards Generic System Observation Management. 2015.
+### Habilitation to Direct Research
+- Vania Marangozova-Martin. Towards Generic System Observation Management. 2015.
 
-## Technical Reports
+### Technical Reports
 - K. Georgiev and V. Marangozova-Martin. Deterministic Partial Replay for MPSoC Debug- ging. Rapport de recherche RR-8515, INRIA Grenoble, France, 2014.
 - G.Pagano and V. Marangozova-Martin. FrameSoC Workbench : Facilitating Trace Analysis through a Consistent User Interface. Rapport technique RT-447, INRIA, Avril 2014.
 
-## Communications
+### Communications
 - Johanna Sepúlveda, Vania Marangozova-Martin, Jerónimo Castrillón. Architecture, Lan- guages, Compilation and Hardware support for Emerging ManYcore systems (ALCHEMY) : Preface. ICCS 2017 : 1071-1072
 - A. Martin, G. Pagano, V. Marangozova-Martin and J. Correnoz. Analyse de systèmes embarqués par structuration de traces d’exécution. Conférence en parallélisme, architecture et systèmes (ComPAS), Neuchâtel, Suisse. Avril 2014
 
 # Software
-- SWAT : Système de Workflow pour l’Analyse de Traces. Logiciel libre issu du travail de thèse d’Alexis Martin. https://gitlab.com/alexmartin/swat
-- Framesoc : une infrastructure de gestion de traces. soctrace-inria.github.io/framesoc/
-- Traces d’exécution LTTng de 10 benchmarks Phoronix. https://doi.org/10.18709/PERSCIDO.2017.03.DS31
-- 
+- SWAT : Système de Workflow pour l’Analyse de Traces. 
+  Logiciel libre issu du travail de thèse d’Alexis Martin. 
+  https://gitlab.com/alexmartin/swat
+- Framesoc : une infrastructure de gestion de traces. 
+  soctrace-inria.github.io/framesoc/
+- Traces d’exécution LTTng de 10 benchmarks Phoronix. 
+  https://doi.org/10.18709/PERSCIDO.2017.03.DS31
+
 <!--- {{% callout note %}} -->
 <!--- Quickly discover relevant content by [filtering publications](./publication/). -->
 <!--- {{% /callout %}} -->
