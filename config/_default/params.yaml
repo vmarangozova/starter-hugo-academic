@@ -23,12 +23,8 @@ twitter: ''
 email: vania(dot)marangozova(at)imag(dot)fr
 phone: +33 4 57 42 15 27
 address:
-  street: LIG - ERODS team
-  street2: Laboratoire d'Informatique de Grenoble
-  street3: Bâtiment IMAG, 700 avenue Centrale
+  street: LIG - ERODS team <\br> Laboratoire d'Informatique de Grenoble <\br> Bâtiment IMAG, 700 avenue Centrale
   city: Domaine Universitaire - 38401 St Martin d'Hères
-# region: CA
-#  postcode: '94305'
   country: France
 
 # Site header
