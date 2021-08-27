@@ -10,9 +10,10 @@ headless: true
 weight: 2
 
 title: Research
-subtitle: 'Selected Publications'
+subtitle: ''
 
 content:
+  Selected Publications
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
@@ -37,6 +38,6 @@ design:
   view: 4
 ---
 
-#{{% callout note %}}
+{{% callout note %}}
 #Quickly discover relevant content by [filtering publications](./publication/).
 #{{% /callout %}}
