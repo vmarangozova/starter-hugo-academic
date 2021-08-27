@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: List of my publications
 
 font_size: s
 share: false
@@ -70,24 +71,4 @@ Activité professionnelle
 ### Communications
 - Johanna Sepúlveda, Vania Marangozova-Martin, Jerónimo Castrillón. Architecture, Lan- guages, Compilation and Hardware support for Emerging ManYcore systems (ALCHEMY) : Preface. ICCS 2017 : 1071-1072
 - A. Martin, G. Pagano, V. Marangozova-Martin and J. Correnoz. Analyse de systèmes embarqués par structuration de traces d’exécution. Conférence en parallélisme, architecture et systèmes (ComPAS), Neuchâtel, Suisse. Avril 2014
-
-## Software
-- SWAT : Système de Workflow pour l’Analyse de Traces. 
-  
-  Logiciel libre issu du travail de thèse d’Alexis Martin. 
-  
-  https://gitlab.com/alexmartin/swat
-
-
-- Framesoc : une infrastructure de gestion de traces.
-
-  Logiciel libre basé sur le framework Eclispe produit dans le cadre du projet SoC-TRACE. 
-  
-  soctrace-inria.github.io/framesoc/
-  
-- Traces d’exécution LTTng de 10 benchmarks Phoronix
-
-  Mise à disposition en accès libre d’environ 500 Giga-octets de traces, issues de différentes configurations d’exécution de 10 benchmarks standards sur deux plates-formes (une machine de bureau classique et une plate-forme embarquée). 
-  
-  https://doi.org/10.18709/PERSCIDO.2017.03.DS31
 
