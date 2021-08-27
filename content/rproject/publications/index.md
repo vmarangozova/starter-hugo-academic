@@ -8,9 +8,9 @@ title: Publications
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+# image:
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 
 # links:
 # - icon: twitter
@@ -30,13 +30,6 @@ url_video: ""
 # slides: example
 ---
 
----
-widget: blank
-widget_id: research
-weight: 2
-title: Research
-active: true
----
 
 ## Publications
 
