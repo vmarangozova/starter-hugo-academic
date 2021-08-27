@@ -37,8 +37,8 @@ design:
   view: 4
 ---
 
-Selected Publications
+## Selected Publications
 
-# {{% callout note %}}
-# Quickly discover relevant content by [filtering publications](./publication/).
-# {{% /callout %}}
+< {{% callout note %}} >
+< Quickly discover relevant content by [filtering publications](./publication/). >
+< {{% /callout %}} >
