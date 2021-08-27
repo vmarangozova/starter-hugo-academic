@@ -1,8 +1,6 @@
 ---
 title: Introduction to Distributed Systems
-summary: M1 Informatique, M1 MOSIG, UFR IM2AG, UGA
-This couarse is about ...
-Trying a summary on multiple lines
+summary: M1 Informatique, M1 MOSIG, UFR IM2AG, UGA&shy;This couarse is about ...&shy;Trying a summary on multiple lines
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
