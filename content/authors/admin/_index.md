@@ -3,7 +3,7 @@ role: Associate Professor
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Distributed Systems
+  - Distributed Systems Large-scale Infrastructures
 social: []
 organizations:
   - name: University Grenoble-Alpes
@@ -11,10 +11,10 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: UGA
+      institution: University Grenoble-Alpes
       year: 2003
     - course: HDR (Habilitation to Direct Research)
-      institution: UGA
+      institution: University Grenoble-Alpes
       year: 2015
 superuser: true
 highlight_name: false
