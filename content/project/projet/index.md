@@ -1,12 +1,12 @@
 ---
-title: Introduction to Distributed Systems
-summary: M1 Informatique, M1 MOSIG, UFR IM2AG, UGA <br />This couarse is about ...<br />Trying a summary on multiple lines
+title: Projet de programmation système
+summary: M1 Informatique, M1 MOSIG, UFR IM2AG, UGA 
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=333"
+external_link: "https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=126"
 
 # image:
 #  caption: Photo by rawpixel on Unsplash
