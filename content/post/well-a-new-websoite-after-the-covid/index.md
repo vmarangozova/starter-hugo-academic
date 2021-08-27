@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Finally, how many time this will take me?
+Finally, how many time this will take me? 2 days for now
