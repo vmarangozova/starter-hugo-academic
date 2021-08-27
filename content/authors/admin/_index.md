@@ -2,8 +2,10 @@
 role: Associate Professor
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Distributed Systems Large-scale Infrastructures
+#interests:
+#  - Distributed Systems 
+#  - Large-scale Infrastructures
+#  - Resource Management
 social: []
 organizations:
   - name: University Grenoble-Alpes
