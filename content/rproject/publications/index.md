@@ -1,6 +1,6 @@
 ---
 title: Publications
-# summary: M1 Informatique, M1 MOSIG, UFR IM2AG, UGA
+summary: Publications and software
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
