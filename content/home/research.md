@@ -22,12 +22,12 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: true
+  # filters:
+  #  tag: ''
+  #  category: ''
+  #  publication_type: ''
+  #  author: ''
+  #  exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -39,12 +39,12 @@ design:
 
 ## Publications
 
-### International Journals [ACL]
+#### International Journals [ACL]
 - V.Marangozova-Martin, A. El-Rheddane, N. De Palma. Multi-Level Elasticity for Data Stream Processing. IEEE TPDS, vol. 30, no. 10, pp. 2326-2337, 1 Oct. 2019
 - Martin A, Marangozova-Martin V. Automatic benchmark profiling through advanced workflow-based trace analysis. Softw Pract Exper. 2018 ;1–23 
 - C. Pousa Ribeiro, M. Castro, V. Marangozova-Martin, J.-F. Mehaut, H. Cota de Freitas, and C. Augusto Paiva da Silva Martins. Evaluating CPU and Memory Affinity for Numerical Scientific Multithreaded Benchmarks on Multi-cores. IADIS International Journal on Computer Science and Information Systems(IJCSIS), 7(1) :79–93, 2012.
 
-### International Peer-Reviewed Conferences [ACT]
+#### International Peer-Reviewed Conferences [ACT]
 - Alexis Martin, Vania Marangozova-Martin. Automatic Benchmark Profiling Through Advanced Trace Analysis. Euro-Par 2016 : 63-74 (Rang A)
 - K.Georgiev and V. Marangozova-Martin. MPSoC Zoom Debugging : A Deterministic Record-Partial Replay Approach. 12th IEEE International Conference on Embedded and Ubiquitous Computing (EUC’2014). (Acceptation 30%)
 - D. Dosimont, G. Pagano, G.Huard, V. Marangozova-Martin and J-M. Vincent. Efficient Analysis Methodology for Huge Application Traces. International Conference on High Performance Computing and Simulation (HPCS). July, 2014. Bologna, Italy.
@@ -58,23 +58,23 @@ design:
 -C. Pousa Ribeiro, M. Bastos Castro, J.-F. Mehaut, V. Marangozova-Martin, H. Cota de Freitas, and C. A. P. S. Martins. Investigating the Impact of CPU and Memory Affinity on Multi-core Platforms : A Case Study of Numerical Scientific Multithreaded Applications. IADIS International Conference on Applied Computing (AC), Rio de Janeiro, Brazil, 2011.
 - C. Prada, V. Marangozova-Martin, J.-F. Mehaut, and M. Santana. A Generic Component- Based Approach to MPSoC Observation. 9th IEEE/IFIP International Conference on Embedded and UbiquitousComputing (EUC 2011), 2011.
 
-### Short communications [COM] and posters [AFF] in conferences and workshops
+#### Short communications [COM] and posters [AFF] in conferences and workshops
 - G. Pagano and V. Marangozova-Martin. The FrameSoC Software Architecture for Multiple- View Trace Data Analysis. ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS 2014). Rome, Italie. Juin 2014
 - G. Pagano, D. Dosimont, G. Huard, V. Marangozova-Martin, and J.-M. Vincent. Trace Management and Analysis for Embedded Systems. IEEE International Symposium on Embedded Multicore SoCs (MCSoC-13), Tokyo, Japan, Dec. 2013.
 - V. Marangozova-Martin and G. Pagano. SoC-TRACE : Handling the Challenge of Em- bedded Software Design and Optimization. ACM/IFIP/Usenix International Middleware Conference, Montreal, Canada, Dec. 2012. 
 
-### Habilitation to Direct Research
+#### Habilitation to Direct Research
 - Vania Marangozova-Martin. Towards Generic System Observation Management. 2015.
 
-### Technical Reports
+#### Technical Reports
 - K. Georgiev and V. Marangozova-Martin. Deterministic Partial Replay for MPSoC Debug- ging. Rapport de recherche RR-8515, INRIA Grenoble, France, 2014.
 - G.Pagano and V. Marangozova-Martin. FrameSoC Workbench : Facilitating Trace Analysis through a Consistent User Interface. Rapport technique RT-447, INRIA, Avril 2014.
 
-### Communications
+#### Communications
 - Johanna Sepúlveda, Vania Marangozova-Martin, Jerónimo Castrillón. Architecture, Lan- guages, Compilation and Hardware support for Emerging ManYcore systems (ALCHEMY) : Preface. ICCS 2017 : 1071-1072
 - A. Martin, G. Pagano, V. Marangozova-Martin and J. Correnoz. Analyse de systèmes embarqués par structuration de traces d’exécution. Conférence en parallélisme, architecture et systèmes (ComPAS), Neuchâtel, Suisse. Avril 2014
 
-# Software
+## Software
 - SWAT : Système de Workflow pour l’Analyse de Traces. 
   Logiciel libre issu du travail de thèse d’Alexis Martin. 
   https://gitlab.com/alexmartin/swat
