@@ -1,6 +1,6 @@
 ---
 title: CSE-PC
-summary: <{style="color: green"}Conception des Systèmes d'Exploitation et Programmation Parallèle><br />M1 Informatique, UFR IM2AG, UGA
+summary: **Conception des Systèmes d'Exploitation et Programmation Parallèle**<br />M1 Informatique, UFR IM2AG, UGA
 #<br/>
 # tags:
 # - Deep Learning
