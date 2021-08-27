@@ -1,6 +1,6 @@
 ---
-title: Conception des Systèmes d'Exploitation et Programmation Parallèle
-summary: M1 Informatique, UGA
+title: CSE-PC
+summary: Conception des Systèmes d'Exploitation et Programmation Parallèle<br />M1 Informatique, UFR IM2AG, UGA
 #<br/>
 # tags:
 # - Deep Learning
