@@ -27,7 +27,7 @@ external_link: "https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=3
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Description
 description: ala bala nica
