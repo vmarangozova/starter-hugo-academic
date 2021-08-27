@@ -1,6 +1,8 @@
 ---
 title: Introduction to Distributed Systems
 summary: M1 Informatique, M1 MOSIG, UFR IM2AG, UGA
+This couarse is about ...
+Trying a summary on multiple lines
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
@@ -29,8 +31,7 @@ external_link: "https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=3
 #   Otherwise, set `slides = ""`.
 # slides: example
 
-# Description
-description: ala bala nica
+
 ---
 
 
