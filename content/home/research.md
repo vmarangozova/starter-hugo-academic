@@ -39,6 +39,8 @@ design:
 
 ## Selected Publications
 
+- V.Marangozova-Martin, A. El-Rheddane, N. De Palma. Multi-Level Elasticity for Data Stream Processing. IEEE TPDS, vol. 30, no. 10, pp. 2326-2337, 1 Oct. 2019.
+- Martin A, Marangozova-Martin V. Automatic benchmark profiling through advanced workflow-based trace analysis. Softw Pract Exper. 2018 ;1–23
 <!--- {{% callout note %}} -->
 <!--- Quickly discover relevant content by [filtering publications](./publication/). -->
 <!--- {{% /callout %}} -->
