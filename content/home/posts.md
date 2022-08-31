@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 2
 
-title: Recent Posts
+title: News
 subtitle:
 
 content:
